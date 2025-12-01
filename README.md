@@ -1,4 +1,5 @@
-<img width="630" height="979" alt="image" src="https://github.com/user-attachments/assets/2e74d981-4115-4bb1-a1b8-44df598e8e12" />
+<img width="625" height="979" alt="image" src="https://github.com/user-attachments/assets/a2d03d5d-9ccf-4547-b652-74d3f3a0db9b" />
+
 
 Звіт з дослідження продуктивності алгоритму std::none_of та власного паралельного алгоритму
 1. Мета роботи
